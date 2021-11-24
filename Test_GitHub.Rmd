@@ -1,0 +1,13 @@
+---
+title: "Test_GitHub"
+author: "Joan Moreaux"
+date: "23/11/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hello, I'm Adele
+This is a comment that I wrote in R Studio.
